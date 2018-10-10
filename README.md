@@ -5,7 +5,7 @@
 | H02 | -- | -- |  [02solFibonacci](https://github.com/WebIII/02solFibonacci.git) |
 | H03 | [03thModelEnUnitTesten](https://github.com/WebIII/03thModelEnUnitTesten.git) | -- | -- |
 | H04 | [04thDebugging](https://github.com/WebIII/4thDebugging.git) | -- |  -- |
-| H05 | -- | -- |  -- |
+| H05 | [05thLINQ](https://github.com/WebIII/05thLinq) | [05exLINQ](https://github.com/WebIII/05exLinq) |  -- |
 | H06 | -- | -- |  -- |
 | H07 | -- | -- |  -- |
 | H08 | -- | -- |  -- |
