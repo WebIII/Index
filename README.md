@@ -7,7 +7,7 @@
 | H04 | [04thDebugging](https://github.com/WebIII/4thDebugging.git) | -- |  -- |
 | H05 | [05thLINQ](https://github.com/WebIII/05thLinq) | [05exLINQ](https://github.com/WebIII/05exLinq) |  -- |
 | H06 | [06thMvcIntroduction](https://github.com/WebIII/06thmvcintroduction) | [06exMvcIntroduction](https://github.com/WebIII/06exMvcIntroduction) |  -- |
-| H07 | [07thEntityFramework](https://github.com/WebIII/07thEntityFramework) | [07exEntityFramework](https://github.com/WebIII/07exEntityFramework) |  -- |
+| H07 | [07thEntityFramework](https://github.com/WebIII/07thEntityFramework) | [07exEntityFramework_Part1](https://github.com/WebIII/07exEntityFramework_Part1) |  -- |
 | H08 | -- | -- |  -- |
 | H09 | -- | -- |  -- |
 | H10 | -- | -- |  -- |
