@@ -1,3 +1,4 @@
+<!--
 # Overview repositories
 |               | Theorie           | Oefening  | Oplossing|
 | ------------- |:-------------:|:-----:|:-------:|
@@ -13,3 +14,4 @@
 |     | -- | [08exSportsStore_Part2](https://github.com/WebIII/08exSportsStore_Part2) |   [08solSportsStore_Part2](https://github.com/WebIII/08solSportsStore_Part2) |
 | H09 | [09thBeerhallVal](https://github.com/WebIII/09thBeerhallVal) and [09thBeerhallAuth](https://github.com/WebIII/09thBeerhallAuth) | [09exSportsStore](https://github.com/WebIII/09exSportsStore) |  [09solSportsStore](https://github.com/WebIII/09solSportsStore) |
 | H10 | [10thBeerhallMvcAdv](https://github.com/WebIII/10thBeerhallMvcAdv) | [10exVoorbeeldExamen](https://github.com/WebIII/10exVoorbeeldExamen) | [10solVoorbeeldExamen](https://github.com/WebIII/10solVoorbeeldExamen) |
+-->
